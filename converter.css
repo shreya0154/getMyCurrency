@@ -1,0 +1,167 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+/*   
+  .container-fluid{
+    padding: 30px;
+
+  } */
+
+
+  nav .valueOfCurrency{
+    background-color: #009CDF;
+  }
+
+
+/* .navbar{
+    padding: 50px;
+} */
+
+  .valueList {
+    padding-top: 20px;
+    padding-left: 20px;
+    /* background-color: #d6eef9;
+    padding-bottom: 20px; */
+  }
+
+ .navbarlist{
+    background-color: #009CDF;
+    display: flex;
+    align-items: center;
+    /* margin: 0; */
+    padding: 8px;
+    list-style-type: none;
+  }
+
+  .heading{
+    color: white;
+    font-size: 25px;
+  }
+  /* body{
+    background-image: url("./images.jpeg");
+  } */
+
+  nav{
+    background-color: #009CDF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* margin: 0; */
+    /* padding: 8px; */
+    padding-right: 20px;
+    list-style-type: none;
+  }
+  .baseBody{
+      
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      /* background-color: rgb(3, 32, 56); */
+      min-height: 100vh;
+  }
+  
+  
+  
+  .contain1{
+      padding: 2rem;
+      background-color: #b7ddee;
+      height: 150%;
+      width: 50vh;
+      border-radius: 1rem;
+  
+  }
+  
+  form{
+      padding:2rem, 0, 1rem, 0;
+  }
+  
+  form input, select, button{
+      padding: 10px;
+      width: 100%;
+      border:none;
+      border-radius: 0.5rem;
+      /* border-color: bisque; */
+      outline: none;
+  
+  }
+  
+  input{
+      font-size: 1rem;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .Amount{
+      padding-right: 1rem;
+      
+  }
+  
+  
+  .Amount,.msgContainer{
+      padding-top: 1rem;
+  }
+  
+  .dropdown123{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 1rem;
+      border-color: rgb(211, 28, 28);
+  }
+  
+  .select-contain1{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-radius: 5px;
+      
+  }
+  
+  /* tr:nth-child(even) {
+    background-color: rgba(150, 212, 212, 0.4);
+  }
+  
+  th:nth-child(even),td:nth-child(even) {
+    background-color: rgba(150, 212, 212, 0.4);
+  } */
+ 
+  select{
+      /* align-items: center; */
+      max-width: 5rem;
+      /* margin-top: 20px; */
+      max-height: 2.15rem;
+  }
+  
+  
+  .msgContainer{
+      margin-bottom: 20px;
+      margin-top: 10px;
+  }
+  
+  button{
+      background-color: hotpink;
+      border-radius: 20px;
+      cursor: pointer;
+      width: 100%;
+      
+  }
+  .baseBody{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .exchangeImage{
+    height:120%;
+    width: 120%;
+    size: 100%;
+    padding-left: 100px;
+  }
+  
+  .flag{
+      
+      max-width: 1.5rem;
+  
+  }
+  
+  
